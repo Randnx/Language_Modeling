@@ -101,6 +101,6 @@ ENV/
 .mypy_cache/
 
 # custom
-data/
+#Sdata/
 log/
 
