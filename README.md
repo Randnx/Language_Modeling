@@ -24,3 +24,7 @@ Penn Tree bank (PTB)
 ## Character aware model
 [Character-Aware Neural Language Models -- arxiv-1508.06615 -- AAAI 2016](https://arxiv.org/abs/1508.06615)
 ![character aware model](https://github.com/stikbuf/Language_Modeling/blob/master/Character%20aware.png?raw=true)
+
+## Gated CNN model
+[Language Modeling with Gated Convolutional Networks -- arxiv-1612.08083](https://arxiv.org/abs/1612.08083)
+![Gated CNN model](https://github.com/stikbuf/Language_Modeling/blob/master/Gated%20CNN.png?raw=true)
