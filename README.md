@@ -19,12 +19,16 @@ Penn Tree bank (PTB)
  but while the new york stock exchange did   .......
 
 ## RNN baseline model
-![RNN baseline](https://github.com/stikbuf/Language_Modeling/blob/master/RNN%20baseline.png?raw=true)
+![RNN baseline](https://github.com/stikbuf/Language_Modeling/blob/dev/figures/RNN%20baseline.png?raw=true)
 
 ## Character aware model
 [Character-Aware Neural Language Models -- arxiv-1508.06615 -- AAAI 2016](https://arxiv.org/abs/1508.06615)
-![character aware model](https://github.com/stikbuf/Language_Modeling/blob/master/Character%20aware.png?raw=true)
+![character aware model](https://github.com/stikbuf/Language_Modeling/blob/dev/figures/Character%20aware.png?raw=true)
 
 ## Gated CNN model
 [Language Modeling with Gated Convolutional Networks -- arxiv-1612.08083 -- Facebook AI Research](https://arxiv.org/abs/1612.08083)
-![Gated CNN model](https://github.com/stikbuf/Language_Modeling/blob/master/Gated%20CNN.png?raw=true)
+![Gated CNN model](https://github.com/stikbuf/Language_Modeling/blob/dev/figures/Gated%20CNN.png?raw=true)
+
+## End-to-end memory networks model
+[End-To-End Memory Networks -- arxiv-1503.08895 -- NIPS 2015](https://arxiv.org/abs/1503.08895)
+![E2E MM model](https://github.com/stikbuf/Language_Modeling/blob/dev/figures/End-to-end%20memory%20networks.png?raw=true)
