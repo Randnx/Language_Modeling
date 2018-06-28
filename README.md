@@ -30,5 +30,5 @@ Penn Tree bank (PTB)
 ![Gated CNN model](https://github.com/stikbuf/Language_Modeling/blob/dev/figures/Gated%20CNN.png?raw=true)
 
 ## End-to-end memory networks model
-[End-To-End Memory Networks -- arxiv-1503.08895 -- NIPS 2015]
+[End-To-End Memory Networks -- arxiv-1503.08895 -- NIPS 2015](https://arxiv.org/abs/1503.08895)
 ![E2E MM model](https://github.com/stikbuf/Language_Modeling/blob/dev/figures/End-to-end%20memory%20networks.png?raw=true)
