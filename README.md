@@ -2,7 +2,7 @@
 Language modeling with different models.
 
 ## Environment
-Nvidia K80 -- Nvidia docker -- Python 3 -- TensorFlow -- Keras
+Nvidia K80-GTX 1080Ti -- Ubuntu 16.04 -- Nvidia docker -- Python 3 -- TensorFlow-Keras
 
 ## Dataset
 Penn Tree bank (PTB)
